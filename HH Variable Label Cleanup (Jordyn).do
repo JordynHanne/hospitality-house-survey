@@ -1,4 +1,5 @@
 *Hospitality House Variable Cleanup (Jordyn)
+*First change
 *-------------------------------------------
  
 import delimited "/Volumes/USB DISK/Hospitality_House-6.csv", encoding(ISO-8859-1)
